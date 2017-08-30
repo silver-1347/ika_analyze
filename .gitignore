@@ -1,1 +1,12 @@
+.DS_Store
+
 Images/
+Others/
+Results/
+
+keys.json
+
+.vscode
+
+*.ipynb
+.ipynb_checkpoints
